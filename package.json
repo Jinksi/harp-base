@@ -1,0 +1,14 @@
+{
+  "name": "harp-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jinksi <ericjinks@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "harp": "^0.24.1"
+  },
+  "scripts": {
+    "start": "harp server src",
+    "build": "harp compile src --output ../build"
+  }
+}

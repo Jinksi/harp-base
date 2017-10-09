@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "title": "Awesome",
+    "pages": [
+      {
+        "title": "Home"
+      },
+      {
+        "title": "About"
+      }
+    ]
+  }
+}
